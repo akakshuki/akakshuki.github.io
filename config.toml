@@ -33,18 +33,23 @@ enableRobotsTXT = true
     name = "Tags"
     url = "/tags/"
     weight = 2
-    
+  [[menu.main]]
+    identifier="about"
+    name="About"
+    url="/about/aboutme"
+    weight = 3  
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/akakshuki"
-    weight = 3
+    weight = 4
     
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
-
+  
 [params]
   showPostsOnHomePage = "popular"
 
   footer = "Copy right Hoang Le"
 
   enableRobotsTXT = true
+ 
