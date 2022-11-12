@@ -7,20 +7,17 @@ tags: ["AboutMe"]
 
 # <h1 align="center">Hi, I'm <a href="https://github.com/akakshuki">Hoang(Howard) <a><img width="30" src="https://raw.githubusercontent.com/akakshuki/akakshuki/main/Blob/risehand.gif"/></a></h1> 
 
-<p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/akakshuki/akakshuki/main/Image/Proflie.jpeg" style="border-radius:50%">
-</p>
 
-<div>
-<strong>About Me:</strong><br>
-💻 I’m currently working as an Junior DevOps at FPT software HCMC
-<br>
-📚 I graduated in Aptech Aprotrain  <br>
-📈 I experienced 2 Years at DevOps, Backend, Design architect infrastructure<br>
-🏆 My certifications:
-<ul>
-   <li>Azure-104</li>
-   <li>IBM profesional certificate (Coursera)</li>
-</ul>
-📫 Reach me at <a href="mailto:le.dinhhoang.1207@gmail.com">le.dinhhoang.1207@gmail.com</a><br>
-😄 Find me on <a href="https://www.linkedin.com/in/akakshuki/">Linkedin</a><br><br><br>
+### About Me:
+ - 💻 I’m currently working as an Associate DevOps at BOSCH Viet Nam HCMC
+ - 📚 I graduated in Aptech Aprotrain
+ - 📈 I experienced 2 Years at DevOps, Backend, Design architect infrastructure
+ - 🏆 My certifications:
+    - Azure-104
+    - IBM profesional certificate (Coursera)
+
+If you have any questions please do not hesitate to contact me
+- 📫 Reach me at le.dinhhoang.1207@gmail.com
+- 😄 Find me on Linkedin
+- ☎️ Phone +84 337121429
+
