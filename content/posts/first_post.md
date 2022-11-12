@@ -6,6 +6,13 @@ tags: ["blog"]
 ---
 
 
-# Hello World!
+# Git tricks
+##  1. Git amend 
 
-This is my blog.
+- When you want to commit code without changing commit message.
+
+  ``
+      git add. && git commit --amend --no-edit -a && git push -f 
+  ``
+
+
