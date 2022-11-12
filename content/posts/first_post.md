@@ -7,12 +7,17 @@ tags: ["blog"]
 
 
 # Git tricks
-##  1. Git amend 
+##  1. Git amend
 
 - When you want to commit code without changing commit message.
 
-  ``
-      git add. && git commit --amend --no-edit -a && git push -f 
-  ``
+  ```Bash
+  
+      git add . && git commit --amend --no-edit -a && git push -f 
+  
+  ```
+
+## 2. Git rebase 
+  
 
 
