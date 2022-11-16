@@ -1,12 +1,11 @@
 ---
-title: ""
+title: "about_me"
 date: 2022-11-12T17:28:40+07:00
 type: "post"
 tags: ["AboutMe"]
 ---
 
-# <h1 align="center">Hi, I'm <a href="https://github.com/akakshuki">Hoang(Howard) <a><img width="30" src="https://raw.githubusercontent.com/akakshuki/akakshuki/main/Blob/risehand.gif"/></a></h1> 
-
+# Hi, I am Hoang(Howard) Le 
 
 ### About Me:
  - 💻 I’m currently working as an Associate DevOps at BOSCH Viet Nam HCMC
