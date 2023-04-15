@@ -51,14 +51,3 @@ enableRobotsTXT = true
   footer = "Copy right Hoang Le"
   enableRobotsTXT = true
   avatarURL = "/images/avt.jpg"
-  customPostFootHTML = '''
-          <!-- Comments by Cusdis -->
-          <h4>Comments:</h4>
-          <div id="cusdis_thread" data-host="https://cusdis.com"
-            data-app-id="027b3476-7619-49b8-9694-f0f4c591d600"
-            data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
-            data-page-title="{{ .Title }}"
-            data-theme="auto">
-          </div>
-            <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
-  '''
