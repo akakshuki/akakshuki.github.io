@@ -1,6 +1,6 @@
 ---
-title: "git_tricks"
-date: 2022-11-07T00:14:08+07:00
+title: "Git trick"
+date: 2023-02-17T20:48:20+07:00
 type: "post"
 tags: ["blog"]
 ---

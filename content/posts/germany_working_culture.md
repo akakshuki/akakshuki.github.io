@@ -1,5 +1,5 @@
 ---
-title: "Germany_working_culture"
+title: "Germany working culture"
 date: 2023-02-17T16:48:20+07:00
 type: "post"
 tags: ["blog"]

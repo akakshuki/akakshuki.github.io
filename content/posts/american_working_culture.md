@@ -1,5 +1,5 @@
 ---
-title: "American_working_culture"
+title: "American working culture"
 date: 2023-02-17T20:48:20+07:00
 type: "post"
 tags: ["blog"]
